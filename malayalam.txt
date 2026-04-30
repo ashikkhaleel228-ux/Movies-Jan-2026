@@ -3,3 +3,9 @@
 name : sarvam maya
 
 director : akhil sathyan
+
+2.
+
+movie : Thudarum
+
+director : Tharun Moorthy
